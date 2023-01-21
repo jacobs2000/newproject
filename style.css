@@ -1,5 +1,7 @@
 body{
     background-color: rgba(0, 255, 255, 0.315);
+    background-image: url(.//res/image2.jpg);
+    background-size: cover;
 }
 h1{
     color: blue;
@@ -7,10 +9,12 @@ h1{
 }
 h2{
     color: black;
+
 }
 p{
     color: black;
     font-size: 20px;
+    border: 50px;
 }
 p{
     padding: 10px;
